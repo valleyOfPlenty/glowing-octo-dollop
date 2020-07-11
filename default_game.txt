@@ -1,3 +1,6 @@
+// Comments
+// This was a game organised on Tech fest IIT KGP.
+
   @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
